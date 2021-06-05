@@ -19,5 +19,8 @@ Denise S. Cammarota
 - Práctico 6
 
 
-**Que me falta:**
+**Que me falta terminar:**
 - Práctico 3 - Ejercicio 3
+
+**Errores detectados**
+- Práctico 2 - Ej 2 - Jacobiano no diferenciable en la segunda parte del ejercicio 
