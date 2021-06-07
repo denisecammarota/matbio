@@ -10,6 +10,7 @@ Denise S. Cammarota
 - Práctico 2
 - Práctico 4
 - Práctico 5
+- Práctico 6
 
 **Prácticos terminados hasta la fecha:**
 - Práctico 1
