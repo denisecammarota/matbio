@@ -8,6 +8,7 @@ Denise S. Cammarota
 **Prácticos entregados hasta la fecha:**
 - Práctico 1
 - Práctico 2
+- Práctico 3
 - Práctico 4
 - Práctico 5
 - Práctico 6
